@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Eco Innovate</string>
+    <string name="eco_innovate">Eco Innovate</string>
+    <string name="ingresar">INGRESAR</string>
+    <string name="eco_innovacion">ECO INNOVATE</string>
+    <string name="bienvenida_aplicacion">BIENVENIDO</string>
+    <string name="correo_sesion">Email</string>
+    <string name="password_sesion">Password</string>
+    <string name="repetir_contraseña">Repetir Password</string>
+    <string name="iniciar_sesion">INGRESAR</string>
+    <string name="registrarse">REGISTRATE</string>
+    <string name="papel">PAPEL</string>
+    <string name="vidrio">VIDRIO</string>
+    <string name="hierro">HIERRO</string>
+    <string name="crear_cuenta">Crear Cuenta</string>
+    <string name="meses">MES</string>
+    <string name="eleccion_mes">Elija el mes:</string>
+    <string name="Kg_reciclaje">Indique kg de material reciclado:</string>
+    <string name="Valor_reciclaje">Indique valor de material reciclado:</string>
+    <string name="KG">Kg</string>
+    <string name="dinero">$</string>
+    <string name="guardar">Guardar Datos</string>
+    <string name="menu">MENU CATEGORIAS</string>
+    <string name="materiales">MATERIALES RECICLADOS</string>
+    <string name="estadisticas">ESTADISTICAS</string>
+    <string name="consejo">CONSEJOS</string>
+    <string name="estadisticastabla">RECOLECCION DE PAPEL-VIDRIO-HIERRO</string>
+    <string name="consejo_dia">Consejo del Dia</string>
+    <string name="cerrar_sesion">Salir, Cerrar sesion</string>
+</resources>
